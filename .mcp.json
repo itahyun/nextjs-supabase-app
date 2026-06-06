@@ -24,9 +24,9 @@
     },
     "shrimp-task-manager": {
       "command": "node",
-      "args": ["/Users/gymcoding/workspace/mcp-shrimp-task-manager/dist/index.js"],
+      "args": ["C:\\Users\\itahy\\workspace\\mcp-shrimp-task-manager\\dist\\index.js"],
       "env": {
-        "DATA_DIR": "/Users/gymcoding/workspace/courses/nextjs-supabase-app/shrimp_data",
+        "DATA_DIR": "C:\\Users\\itahy\\workspace\\nextjs-supabase-app\\shrimp_data",
         "TEMPLATES_USE": "en",
         "ENABLE_GUI": "true"
       }
