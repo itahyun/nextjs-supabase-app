@@ -42,6 +42,9 @@ yarn-error.log*
 /playwright-report/
 /shrimp_data/
 
+# mcp local config (may contain machine-specific paths/secrets)
+.mcp.json
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
